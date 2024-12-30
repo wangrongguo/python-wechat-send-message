@@ -1,0 +1,10 @@
+{
+  "问候模板": "你好，希望你今天过得愉快！",
+  "祝福模板": "祝你生日快乐，心想事成！",
+  "提醒模板": "别忘了今天的约定哦！",
+  "今日提醒，可替换": "亲爱的{nickname}，今天是{date} 星期{weekday}，现在是{time}，记得按时吃饭哦！",
+  "今日天气": "{city}天气预报\n{weather}\n\n今天是{date} 星期{weekday} {lunar_date}\n【宜】{suitable}\n【忌】{unsuitable}\n\n{constellation}今日运势\n{horoscope}\n\n亲爱的{nickname}，这是我们在一起的第{love_days}天，今天也要开开心心的哦！",
+  "1.0": "{city}天气预报\n{weather}\n\n亲爱的{nickname}，今天是{date} 星期{weekday}，现在是{time}，记得按时吃饭哦！",
+  "彩虹屁": "亲爱的{nickname}，今天是{date} 星期{weekday}，{lunar_date}，现在是{time}，{rainbow}",
+  "励志文本": "{encouragement}"
+}
